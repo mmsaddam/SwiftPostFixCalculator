@@ -1,7 +1,9 @@
 
+## SwiftPostFixCalculator
+
 Reverse Polish notation calculator by Swift
 
-## Reverse Polish notation
+### Reverse Polish notation
 
 - Conventional notation:  3 − 4 + 5 
 - Reverse Polish notation: 3 4 − 5 +
@@ -13,14 +15,15 @@ Swift 5.1
 
 ### How to use
 
--  git clone https://github.com/mmsaddam/SwiftPostFixCalculator.git
--  Go to the directory 
-- execute command: 
-            - swift build
-            - swift run
-- enter polish notation expression seprated by space
+- git clone https://github.com/mmsaddam/SwiftPostFixCalculator.git
+- Go to the directory 
+- Execute command: 
+  - swift build
+  - swift run
+- Enter polish notation expression seprated by space
 
 ```
+Example
 3 4 - 5 +
 = 6
 ```
